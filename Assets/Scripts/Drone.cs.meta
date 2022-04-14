@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2d44634d94daa48499ce503282264b83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mesh: {fileID: 7567439323738399166, guid: 7458509fad69d364185a59d0102cd792, type: 3}
+  - bullet: {fileID: 921981192100679542, guid: a20b71773f5359a44b7fb37dbbf33ce4, type: 3}
+  - death_effect: {fileID: 4481677823558460378, guid: ca265a99dd35ca843a97dcdcdd04a0ee, type: 3}
+  - death_sound: {fileID: 8300000, guid: 7ef61e8ba466b094780b3b6208a13afb, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
